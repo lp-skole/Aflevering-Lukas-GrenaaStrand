@@ -3,6 +3,5 @@
 *.sass.map
 *.scss.map
 node_modules/
-scss/
 package.json
 package-lock.json
